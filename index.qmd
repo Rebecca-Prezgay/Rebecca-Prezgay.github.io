@@ -1,0 +1,24 @@
+---
+title: "Rebecca Prezgay"
+image: 1e0d5e24-a4e9-414d-96ca-1de589c21443.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: Linked In
+      href: https://www.linkedin.com/in/rebecca-prezgay-bb283631b/
+---
+
+**My name is Rebecca (Becca) Prezgay, and I am a graduate student in the [Bonisoli-Alquati Lab](https://www.bonisolialquatilab.com/people.html) at Cal Poly Pomona studying pesticide accumulation in the sea urchins of fisheries and aquaculture relevance in southern California.**
+
+My research interests include marine ecotoxicology, behavioral ecology, and anthropocentric impacts on marine ecosystems research. I have a range of experiences in education and research, primarily along the southern California coastline. I am involved with SETAC (Society of Environmental Toxicology and Chemistry) as a student representative on their board for the southern California chapter. I am also involved with SETAC's NASAC (North America Student Advisory Council).
+
+**Education**
+
+**M.S. in Biological Science, 2025 - Present**
+
+California State Polytechnic University, Pomona
+
+**B.S. in Marine Biology, 2023**
+
+California State University, Long Beach

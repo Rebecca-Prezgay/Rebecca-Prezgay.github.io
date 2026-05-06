@@ -1,0 +1,15 @@
+{
+  "hash": "3edc484b41b476b4405a73e25a2489b6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Rebecca Prezgay\"\n---\n\n**My name is Rebecca Prezgay, and I am a graduate student in the [Bonisoli-Alquati Lab](https://www.bonisolialquatilab.com/people.html)**\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n2+2\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
